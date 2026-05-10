@@ -6,7 +6,7 @@
 
 **Stack:** whatever the project needs, primarily Python and TypeScript.
 
-> **TL;DR** - 21, Spanish, finishing CS at USC. CTO and co-founder of OSIX Tech: built a 7-person engineering team from zero and shipped production AI agent systems (RAG, multi-agent, workflows) for B2B clients. I scope solutions directly with customers and ship fast. 
+> **TL;DR** - 21, Spanish, finishing CS at USC. **Applied AI engineer and systems designer.** Co-founder of OSIX Tech, where I architect and ship production AI agent systems (RAG, multi-agent, workflows) end-to-end for B2B clients. I think in systems and ship fast.
 >
 > *Obsession beats talent.*
 
@@ -14,13 +14,13 @@
 
 ## About Pablo
 
-21 years old, born and raised in O Grove (Galicia). Final-year CS at Universidad de Santiago de Compostela. CTO and co-founder of OSIX Tech, a 7-person AI startup shipping agent systems into enterprise.
+21 years old, born and raised in O Grove (Galicia). Final-year CS at Universidad de Santiago de Compostela. Applied AI engineer and systems designer. Co-founder of OSIX Tech, where I architect and build AI agent systems for B2B clients.
 
 I like solving problems. Tech is what lets me do that.
 
 ### Main Achievements
 
-- **Co-founded OSIX Tech at 21** as CTO. Scaled engineering to 7 people. Product direction and customer-facing scoping across every system the company ships.
+- **Architected and shipped 4+ production multi-agent systems** across OSIX's portfolio (Nessie, IRIS, APEC, ACTA). Distinct verticals (consultancy, lab supplies, internal CMO, meetings), distinct retrieval and orchestration patterns, all hand-rolled.
 
 - **Architected and built Nessie hands-on** (solo on AI agents and frontend; full-stack contributor). Flagship B2B AI agent platform with hybrid-search RAG, multi-source ingestion and specialized agents. **In production with a consultancy client.** Factory-grade variant (Nessie Industrial) accepted with a major industrial client, pending grant approval for deployment.
 
@@ -32,7 +32,7 @@ I like solving problems. Tech is what lets me do that.
 
 | Project           | Role & Stack                                                                                                                                 | Why it matters                                                                                                                                                                                                                                                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nessie            | CTO · architected + solo on AI agents and frontend · TypeScript (Node backend) + React (Vite, Tailwind) + Python (agents, worker) + pgvector | Flagship B2B AI agent platform: hybrid-search RAG, multi-source ingestion, specialized agents. In production with a consultancy client; industrial variant pending deployment. (private)                                                                                                                                  |
+| Nessie            | Architected end-to-end · solo on AI agents and frontend · TypeScript (Node backend) + React (Vite, Tailwind) + Python (agents, worker) + pgvector | Flagship B2B AI agent platform: hybrid-search RAG, multi-source ingestion, specialized agents. In production with a consultancy client; industrial variant pending deployment. (private)                                                                                                                                  |
 | agrex             | Solo · TypeScript + React Flow + Python tracer                                                                                               | OSS real-time graph visualizer for AI agent execution flows. Live: https://agrex.ppazosp.dev · https://www.npmjs.com/package/@ppazosp/agrex                                                                                                                                                                               |
 | APEC              | Solo · Python + scraping + LLMs                                                                                                              | Internal multi-agent CMO. Automates cold outreach for OSIX's own products: NORA (market research) and SARA (financial scraping) feed an end-to-end personalized email pipeline.                                                                                                                                           |
 | IRIS              | Solo · Python (FastAPI) + React + LLMs + Gmail API                                                                                           | Multi-agent email pipeline, in production for a B2B lab-supplies client. Classifies by intent and priority, searches a 63k-product database, generates context-aware response proposals.                                                                                                                                  |
@@ -46,7 +46,7 @@ I like solving problems. Tech is what lets me do that.
 
 ### Experience (TL;DR)
 
-- **OSIX Tech** (2025 – present). CTO and co-founder. 7-person engineering team. Architecture and product direction across every AI agent system shipped to enterprise.
+- **OSIX Tech** (2025 – present). Co-founder. Architect and primary builder of every AI agent system the company ships, working directly with B2B clients from scoping through delivery. Engineering team scaled to 7.
 
 - **Residential Complex Z4, A Toxa** (Summers 2023, 2024). Security guard / freelance dev. Identified the need and shipped the padel booking system end-to-end.
 
@@ -72,7 +72,7 @@ I like solving problems. Tech is what lets me do that.
 
 ### Writing
 
-Just started a technical garden at [garden.ppazosp.dev](https://garden.ppazosp.dev). Posts so far on self-improving agents, the realities of retrieval, and a few personal essays. Less about the site, more about the content.
+Just started a technical garden at [garden.ppazosp.dev](https://garden.ppazosp.dev). Posts so far on self-improving agents, the realities of retrieval, and a few personal essays.
 
 ### Some personal stuff
 
