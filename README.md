@@ -18,7 +18,7 @@ I like solving problems. Tech is what lets me do that.
 
 - **Architected Nessie**, our flagship B2B AI agent platform: hybrid-search RAG, multi-source ingestion and specialized agents. **In production with a consultancy client.** Factory-grade variant (Nessie Industrial) built and accepted with a major industrial client, pending grant approval for deployment.
 
-- **Shipped IRIS to production** for a B2B lab-supplies client. Multi-agent email pipeline that classifies incoming requests, searches a 63k-product database and generates context-aware response proposals.
+- **Built and shipped IRIS solo** to production for a B2B lab-supplies client. Multi-agent email pipeline that classifies incoming requests, searches a 63k-product database and generates context-aware response proposals.
 
 - **Open-sourced agrex,** a real-time graph visualizer for AI agent execution flows. Live demo, npm and Python packages, framework-agnostic.
 
@@ -28,9 +28,9 @@ I like solving problems. Tech is what lets me do that.
 | ----------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nessie            | CTO · TypeScript (Node + Next.js) + Python (agents, worker) + pgvector | Flagship B2B AI agent platform: hybrid-search RAG, multi-source ingestion, specialized agents. In production with a consultancy client; industrial variant pending deployment. (private) |
 | agrex             | Solo · TypeScript + React Flow + Python tracer   | OSS real-time graph visualizer for AI agent execution flows. Live: https://agrex.ppazosp.dev · https://www.npmjs.com/package/@ppazosp/agrex                                               |
-| APEC              | Lead · Python + scraping + LLMs                  | Internal multi-agent CMO. Automates cold outreach for OSIX's own products: NORA (market research) and SARA (financial scraping) feed an end-to-end personalized email pipeline.           |
-| IRIS              | Lead · Python (FastAPI) + React + LLMs + Gmail API | Multi-agent email pipeline, in production for a B2B lab-supplies client. Classifies by intent and priority, searches a 63k-product database, generates context-aware response proposals.  |
-| DecisionLab (TFG) | Co-author · Python + LLMs + FastAPI              | Multi-agent pipeline that turns natural-language decision-making problems into runnable autonomous agents. USC bachelor's thesis. Tutor: Eduardo Sánchez Vila. Co-built with Juan Freire. |
+| APEC              | Solo · Python + scraping + LLMs                  | Internal multi-agent CMO. Automates cold outreach for OSIX's own products: NORA (market research) and SARA (financial scraping) feed an end-to-end personalized email pipeline.           |
+| IRIS              | Solo · Python (FastAPI) + React + LLMs + Gmail API | Multi-agent email pipeline, in production for a B2B lab-supplies client. Classifies by intent and priority, searches a 63k-product database, generates context-aware response proposals.  |
+| DecisionLab (TFG) | Co-thesis (Juan Freire) · Python + LLMs · solo on extraction pipeline + persistent memory system | Multi-agent pipeline that turns natural-language decision-making problems into runnable autonomous agents. **Built solo:** the extraction pipeline (Researcher → Reasoner → Builder) and the four-store persistent memory system (Postgres + Neo4j + Qdrant + MinIO) shared across both thesis phases. USC bachelor's thesis. Tutor: Eduardo Sánchez Vila. |
 
 *More builds:* ACTA (internal meeting platform: transcription, diarization, summaries, task routing), padel-court booking system (solo, summer 2023, 150+ users).
 
