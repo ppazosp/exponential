@@ -34,6 +34,8 @@ I like solving problems. Tech is what lets me do that.
 
 *More builds:* ACTA (internal meeting platform: transcription, diarization, summaries, task routing), padel-court booking system (solo, summer 2023, 150+ users).
 
+> **No frameworks.** All the multi-agent systems above (Nessie, APEC, IRIS, plus the TFG extraction pipeline and memory backbone) are built from scratch. No LangChain, no CrewAI, no LlamaIndex. Direct LLM API calls, hand-rolled orchestration, full control over context, retries and failure modes.
+
 ### Experience (TL;DR)
 
 - **OSIX Tech** (2025 – present). CTO and co-founder. 7-person engineering team. Architecture and product direction across every AI agent system shipped to enterprise.
@@ -59,6 +61,10 @@ I like solving problems. Tech is what lets me do that.
 ---
 
 ## Other
+
+### Writing
+
+Just started a technical garden at [garden.ppazosp.dev](https://garden.ppazosp.dev). Posts so far on self-improving agents, the realities of retrieval, and a few personal essays. Less about the site, more about the content.
 
 ### Some personal stuff
 
