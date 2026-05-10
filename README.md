@@ -36,6 +36,8 @@ I like solving problems. Tech is what lets me do that.
 
 > **No frameworks.** All the multi-agent systems above (Nessie, APEC, IRIS, plus the TFG extraction pipeline and memory backbone) are built from scratch. No LangChain, no CrewAI, no LlamaIndex. Direct LLM API calls, hand-rolled orchestration, full control over context, retries and failure modes.
 
+> **A note on access.** OSIX projects (Nessie, APEC, IRIS, ACTA) are confidential: production code and client data, no public demos. DecisionLab is an ongoing thesis. agrex is the only one fully open and live. Happy to walk through architecture, code and design decisions of any of them in a call.
+
 ### Experience (TL;DR)
 
 - **OSIX Tech** (2025 – present). CTO and co-founder. 7-person engineering team. Architecture and product direction across every AI agent system shipped to enterprise.
