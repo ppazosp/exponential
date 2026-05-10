@@ -1,6 +1,10 @@
 # Pablo Pazos Parada
 
-**Best with:** Python · TypeScript · React / Next.js · LLM APIs (OpenAI, Anthropic, Google) · RAG (pgvector, hybrid search) · Multi-agent architectures · PostgreSQL **Familiar with:** Voice AI (Whisper, Pyannote) · Node.js · Docker · Prompt engineering · CI/CD
+[LinkedIn](https://linkedin.com/in/pablo-pazos-parada) · [GitHub](https://github.com/ppazosp) · [garden.ppazosp.dev](https://garden.ppazosp.dev) · pablopazosp3@gmail.com
+
+**Best with:** Python · TypeScript · React · LLM APIs (OpenAI, Anthropic, Google) · RAG (pgvector, hybrid search) · Multi-agent architectures · PostgreSQL
+
+**Familiar with:** Next.js · Voice AI (Whisper, Pyannote) · Node.js · Docker · Prompt engineering · CI/CD
 
 > **TL;DR** - 21, Spanish, finishing CS at USC. CTO and co-founder of OSIX Tech: built a 7-person engineering team from zero and shipped production AI agent systems (RAG, multi-agent, voice) for B2B clients. I scope solutions directly with customers and ship fast. *Obsession beats talent.*
 
@@ -14,9 +18,9 @@ I like solving problems. Tech is what lets me do that.
 
 ### Main Achievements
 
-- **Co-founded OSIX Tech at 21** as CTO. Scaled engineering to 7 people. Architecture and product direction across every AI agent system the company ships, working directly with enterprise clients from scoping to delivery.
+- **Co-founded OSIX Tech at 21** as CTO. Scaled engineering to 7 people. Product direction and customer-facing scoping across every system the company ships.
 
-- **Architected and primarily built Nessie** end-to-end: solo on the AI agents and the frontend, hands-on across the stack. Flagship B2B AI agent platform with hybrid-search RAG, multi-source ingestion and specialized agents. **In production with a consultancy client.** Factory-grade variant (Nessie Industrial) built and accepted with a major industrial client, pending grant approval for deployment.
+- **Architected and built Nessie hands-on** (solo on AI agents and frontend; full-stack contributor). Flagship B2B AI agent platform with hybrid-search RAG, multi-source ingestion and specialized agents. **In production with a consultancy client.** Factory-grade variant (Nessie Industrial) accepted with a major industrial client, pending grant approval for deployment.
 
 - **Built and shipped IRIS solo** to production for a B2B lab-supplies client. Multi-agent email pipeline that classifies incoming requests, searches a 63k-product database and generates context-aware response proposals.
 
