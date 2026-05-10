@@ -14,13 +14,11 @@
 
 ## About Pablo
 
-21 years old, born and raised in O Grove (Galicia). Final-year CS at Universidad de Santiago de Compostela. Applied AI engineer and systems designer. Co-founder of OSIX Tech, where I architect and build AI agent systems for B2B clients.
-
 I like solving problems. Tech is what lets me do that.
 
 ### Main Achievements
 
-- **Architected and shipped 4+ production multi-agent systems** across OSIX's portfolio (Nessie, IRIS, APEC, ACTA). Distinct verticals (consultancy, lab supplies, internal CMO, meetings), distinct retrieval and orchestration patterns, all hand-rolled.
+- **Architected and shipped 4+ production multi-agent systems at OSIX.** Distinct verticals (consultancy, lab supplies, internal CMO, meetings), distinct retrieval and orchestration patterns, all hand-rolled.
 
 - **Architected and built Nessie hands-on** (solo on AI agents and frontend; full-stack contributor). Flagship B2B AI agent platform with hybrid-search RAG, multi-source ingestion and specialized agents. **In production with a consultancy client.** Factory-grade variant (Nessie Industrial) accepted with a major industrial client, pending grant approval for deployment.
 
@@ -33,10 +31,10 @@ I like solving problems. Tech is what lets me do that.
 | Project           | Role & Stack                                                                                                                                 | Why it matters                                                                                                                                                                                                                                                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nessie            | Architected end-to-end · solo on AI agents and frontend · TypeScript (Node backend) + React (Vite, Tailwind) + Python (agents, worker) + pgvector | Flagship B2B AI agent platform: hybrid-search RAG, multi-source ingestion, specialized agents. In production with a consultancy client; industrial variant pending deployment. (private)                                                                                                                                  |
-| agrex             | Solo · TypeScript + React Flow + Python tracer                                                                                               | OSS real-time graph visualizer for AI agent execution flows. Live: https://agrex.ppazosp.dev · https://www.npmjs.com/package/@ppazosp/agrex                                                                                                                                                                               |
+| agrex             | Solo · TypeScript + React Flow + Python tracer                                                                                               | OSS real-time graph visualizer for AI agent execution flows. Live: [agrex.ppazosp.dev](https://agrex.ppazosp.dev) · [@ppazosp/agrex](https://www.npmjs.com/package/@ppazosp/agrex)                                                                                                                                        |
 | APEC              | Solo · Python + scraping + LLMs                                                                                                              | Internal multi-agent CMO. Automates cold outreach for OSIX's own products: NORA (market research) and SARA (financial scraping) feed an end-to-end personalized email pipeline.                                                                                                                                           |
 | IRIS              | Solo · Python (FastAPI) + React + LLMs + Gmail API                                                                                           | Multi-agent email pipeline, in production for a B2B lab-supplies client. Classifies by intent and priority, searches a 63k-product database, generates context-aware response proposals.                                                                                                                                  |
-| DecisionLab (TFG) | Co-thesis (Juan Freire) · Python + LLMs · solo on extraction pipeline + persistent memory system                                             | Multi-agent pipeline that turns natural-language decision-making problems into runnable autonomous agents. Built solo: the extraction pipeline (Researcher → Reasoner → Builder) and the four-store persistent memory system (Postgres + Neo4j + Qdrant + MinIO) shared across both thesis phases. USC bachelor's thesis. |
+| DecisionLab (TFG) | Co-thesis (Juan Freire) · Python + LLMs · solo on extraction pipeline + persistent memory system                                             | Multi-agent pipeline that turns natural-language decision-making problems into runnable autonomous agents. Built solo: the extraction pipeline (Researcher → Reasoner → Builder) and the four-store persistent memory system (Postgres + Neo4j + Qdrant + MinIO). USC bachelor's thesis. |
 
 *More builds:* ACTA (internal meeting platform: transcription, diarization, summaries, task routing), padel-court booking system (solo, summer 2023, 150+ users).
 
@@ -62,7 +60,7 @@ I like solving problems. Tech is what lets me do that.
 
 - **Strengths:** problem solving, adaptability, seeing things from a higher level.
 
-- **Improvement points:** discipline to stop working when continuing is no longer efficient. Stop overthinking.
+- **Improvement points:** knowing when to stop. I over-iterate past diminishing returns; working on cutting earlier.
 
 - **Comm style:** fast reply. Whatever is needed to keep the work moving.
 
