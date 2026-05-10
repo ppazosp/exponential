@@ -2,9 +2,13 @@
 
 [ppazosp.dev](https://ppazosp.dev) · [LinkedIn](https://linkedin.com/in/pablo-pazos-parada) · [GitHub](https://github.com/ppazosp) · pablopazosp3@gmail.com
 
-**AI Native, strong fundamentals.** Software is moving up a level. My focus is architecture and decisions: what to build, how agents are composed, how context flows. Implementation is increasingly abstract and agent-driven. Whatever the project needs, primarily Python and TypeScript.
+**AI Native, strong fundamentals.** Software is moving up a level. My focus is architecture and decisions: what to build, how agents are composed, how context flows. Implementation is increasingly abstract and agent-driven.
 
-> **TL;DR** - 21, Spanish, finishing CS at USC. CTO and co-founder of OSIX Tech: built a 7-person engineering team from zero and shipped production AI agent systems (RAG, multi-agent, workflows) for B2B clients. I scope solutions directly with customers and ship fast. *Obsession beats talent.*
+**Stack:** whatever the project needs, primarily Python and TypeScript.
+
+> **TL;DR** - 21, Spanish, finishing CS at USC. CTO and co-founder of OSIX Tech: built a 7-person engineering team from zero and shipped production AI agent systems (RAG, multi-agent, workflows) for B2B clients. I scope solutions directly with customers and ship fast. 
+>
+> *Obsession beats talent.*
 
 ---
 
