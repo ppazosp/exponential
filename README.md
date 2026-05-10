@@ -86,4 +86,4 @@ Just started a technical garden at [garden.ppazosp.dev](https://garden.ppazosp.d
 
 ### My vision
 
-I want to solve bigger problems and make decisions that change things at scale. SF compounds that: network, opportunities, rate of growth you don't get anywhere else.
+I want to solve bigger problems and make decisions that change things at scale. I think change can be made from anywhere; the right team, the right problem and the right pace matter more than the location.
