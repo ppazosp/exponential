@@ -26,7 +26,7 @@ I like solving problems. Tech is what lets me do that. What excites me right now
 
 - **Built and shipped IRIS solo** to production for a B2B lab-supplies client. Multi-agent email pipeline that classifies incoming requests, searches a 63k-product database and generates context-aware response proposals.
 
-- **Open-sourced agrex,** a real-time graph visualizer for AI agent execution flows. Live demo, npm and Python packages, framework-agnostic.
+- **Public OSS in the AI agent ecosystem.** Open-sourced [agrex](https://agrex.ppazosp.dev), a real-time graph visualizer for agent execution flows (npm + Python packages, framework-agnostic, live demo). Active contributor to [Google A2UI](https://github.com/google/A2UI) (Agent-to-UI rendering protocol): [5+ merged PRs](https://github.com/google/A2UI/pulls?q=author%3Appazosp+is%3Amerged) across the Lit and React renderers and web_core, with several more in review.
 
 ### Most-Prideful Builds
 
