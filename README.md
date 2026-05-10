@@ -14,7 +14,9 @@
 
 ## About Pablo
 
-I like solving problems. Tech is what lets me do that.
+Born and raised in O Grove (Galicia). Final-year CS at USC, splitting time between OSIX Tech, my bachelor's thesis on persistent memory backbones for multi-agent simulation, and side projects where I work out the questions that don't fit into either.
+
+I like solving problems. Tech is what lets me do that. What excites me right now is how much leverage a single builder has when AI absorbs the boring parts of implementation, and what that means for how engineers should actually spend their time.
 
 ### Main Achievements
 
