@@ -2,9 +2,7 @@
 
 [ppazosp.dev](https://ppazosp.dev) · [LinkedIn](https://linkedin.com/in/pablo-pazos-parada) · [GitHub](https://github.com/ppazosp) · [garden.ppazosp.dev](https://garden.ppazosp.dev) · pablopazosp3@gmail.com
 
-**Best with:** Python · TypeScript · React · LLM APIs (OpenAI, Anthropic, Google) · RAG (pgvector, hybrid search) · Multi-agent architectures · PostgreSQL
-
-**Familiar with:** Next.js · Voice AI (Whisper, Pyannote) · Node.js · Docker · Prompt engineering · CI/CD
+**AI Native, strong fundamentals.** I think software is moving up a level. My focus is architecture and decisions: what to build, how agents are composed, how context flows. Implementation is increasingly abstract and agent-driven. Stack I reach for: Python · TypeScript · React · LLM APIs (OpenAI, Anthropic, Google) · RAG (pgvector, hybrid search) · Multi-agent systems · Postgres.
 
 > **TL;DR** - 21, Spanish, finishing CS at USC. CTO and co-founder of OSIX Tech: built a 7-person engineering team from zero and shipped production AI agent systems (RAG, multi-agent, voice) for B2B clients. I scope solutions directly with customers and ship fast. *Obsession beats talent.*
 
