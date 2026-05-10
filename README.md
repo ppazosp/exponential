@@ -1,6 +1,6 @@
 # Pablo Pazos Parada
 
-[LinkedIn](https://linkedin.com/in/pablo-pazos-parada) · [GitHub](https://github.com/ppazosp) · [garden.ppazosp.dev](https://garden.ppazosp.dev) · pablopazosp3@gmail.com
+[ppazosp.dev](https://ppazosp.dev) · [LinkedIn](https://linkedin.com/in/pablo-pazos-parada) · [GitHub](https://github.com/ppazosp) · [garden.ppazosp.dev](https://garden.ppazosp.dev) · pablopazosp3@gmail.com
 
 **Best with:** Python · TypeScript · React · LLM APIs (OpenAI, Anthropic, Google) · RAG (pgvector, hybrid search) · Multi-agent architectures · PostgreSQL
 
